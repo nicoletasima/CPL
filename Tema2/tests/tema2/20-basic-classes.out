@@ -1,0 +1,9 @@
+"20-basic-classes.cl", line 2:16, Semantic error: Type null of initialization expression of attribute x is incompatible with declared type Int
+"20-basic-classes.cl", line 3:19, Semantic error: Type null of initialization expression of attribute s is incompatible with declared type String
+"20-basic-classes.cl", line 4:34, Semantic error: Type null of initialization expression of attribute a is incompatible with declared type Int
+"20-basic-classes.cl", line 6:46, Semantic error: Type null of initialization expression of attribute s1 is incompatible with declared type String
+"20-basic-classes.cl", line 7:46, Semantic error: Type null of initialization expression of attribute s2 is incompatible with declared type String
+"20-basic-classes.cl", line 9:19, Semantic error: Type null of initialization expression of attribute l1 is incompatible with declared type Int
+"20-basic-classes.cl", line 10:22, Semantic error: Type null of initialization expression of attribute s3 is incompatible with declared type String
+"20-basic-classes.cl", line 11:22, Semantic error: Type null of initialization expression of attribute s4 is incompatible with declared type String
+Compilation halted
